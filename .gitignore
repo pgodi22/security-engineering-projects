@@ -1,0 +1,21 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# Generated or output files
+*.csv
+*.log
+
+# Academic artifacts (do not publish)
+*.pdf
+*.docx
+*.pptx
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
