@@ -1,9 +1,14 @@
 # Author: Patrick Godinez
 # 
-# Assignment 1
+# Description:
+#   Unicode Encoding Validation Tool
 #
-# Generate a random 10 character string using Chinese-Japanese-Korean characters
-# We encode and decode the generated string using different encoding scheme
+#
+#   Validates encoding and decoding behavior across multiple character encodings
+#   with error handling and structured output.   
+#    
+#   Generate a random 10 character string using Chinese-Japanese-Korean characters
+#   We encode and decode the generated string using different encoding scheme
 
 import random
 import binascii
